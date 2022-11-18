@@ -10,7 +10,6 @@ Material for the Phenome Force workshop on root phenotyping and modelling
 ### Exercice 
 
 What is the effect of a change in root growth rate ? 
-
 - For the primary root ?
 - For the 1st order lateral roots ? 
 - Is it the same for different species ?
@@ -22,6 +21,22 @@ What is the effect of a change in root growth rate ?
 
 ### Exercice
 
+What is the effect of a change in lateral root densities? 
+- For the primary root ?
+- For the 1st order lateral roots ? 
+
+Compensatory changes in the root systems - 1
+- Increase the primary root growth rate by 50% 
+- Observe the effect on the Krs
+- Observe the effect on the total root length
+- Increase the primary root inter lateral distance by 50%
+- Observe the effect on the Krs
+- Observe the effect on the total root length
+
+Compensatory changes in the root systems - 2
+- Increase the lateral root max length by 100% 
+- Observe the effect on the Krs
+- Observe the effect on the total root length
 
 
 ## GRANAR
