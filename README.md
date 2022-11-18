@@ -49,6 +49,11 @@ Compensatory changes in the root systems - 2
 - Webpage : https://mecharoot.github.io/
 - Web interface : https://plantmodelling.shinyapps.io/mecha/
 
+
+## SmartRoot
+
+- Webpage : https://smartroot.github.io/
+
 ## Others
 
 - Botalgorithme : http://www.botalgorithme.be/
